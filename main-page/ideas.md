@@ -1,0 +1,1 @@
+- so the main page is mix of zen fully collapsed UI and the claude left side hover appear chats/new chat UI
